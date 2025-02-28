@@ -1,3 +1,5 @@
+Variables (Explicación)
+
 package variables;
 
 Declara que el código pertenece al paquete variables.
